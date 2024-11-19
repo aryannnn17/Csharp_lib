@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PLC_presentation/1.0.0": {
+        "runtime": {
+          "PLC_presentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PLC_presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
